@@ -1,5 +1,5 @@
 # Heroku-Demo-Fish-Species-Classification
-Testing URL: https://fish-species-logreg-api.herokuapp.com/
+Testing URL: https://himanshu-fish-species-predict.herokuapp.com/
 </br>
 Used Logistic Regression to classify fish species
 </br>
